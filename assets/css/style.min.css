@@ -637,6 +637,7 @@ footer .wrapper {
     grid-template-columns: 5fr 2fr;
     gap: 60px;
   }
+
   .aside {
     display: block;
     align-self: stretch;
